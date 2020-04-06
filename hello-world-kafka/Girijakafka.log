@@ -1,0 +1,139 @@
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 0
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 1
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 2
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 3
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 4
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 5
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 6
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 7
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 8
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 9
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Starting Kafka consumer thread.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 0
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 0
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 1
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 1
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 2
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 2
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 3
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 3
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 4
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 4
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 5
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 5
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 6
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 6
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 7
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 7
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 8
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 8
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 9
+ERROR Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Exception occured :A JSONObject text must begin with '{' at character 1 of The index is now: 9
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 0
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 1
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 2
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 3
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 4
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 5
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 6
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 7
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 8
+INFO http-nio-8080-exec-1 com.home.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 9
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Starting Kafka consumer thread.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 0
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 1
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 2
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 3
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 4
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 5
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 6
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 7
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 8
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 9
+INFO Thread-9 com.home.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 0
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 0
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 1
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 2
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 3
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 4
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 5
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 6
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 7
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 8
+INFO http-nio-8080-exec-1 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 9
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Starting Kafka consumer thread.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :hello world
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 0
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 1
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 2
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 3
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 4
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 5
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 6
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 7
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 8
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 9
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 0
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 1
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 2
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 3
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 4
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 5
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 6
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 7
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 8
+INFO http-nio-8080-exec-2 com.poc.helloworld.kafka.KafkaProducerService - Sending Kafka message: The index is now: 9
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Starting Kafka consumer thread.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 0
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 1
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 2
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 3
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 4
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 5
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 6
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 7
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 8
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Msg consumed :The index is now: 9
+INFO Thread-9 com.poc.helloworld.kafka.KafkaConsumerService - Offset committed to Kafka.
